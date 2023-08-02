@@ -1,0 +1,44 @@
+/* Write your code here. */
+
+.bg-container {
+  height: 100vh;
+  padding: 50px;
+}
+
+.heading {
+  font-family: "Roboto";
+  color: #0f172a;
+  text-align: center;
+}
+
+.card {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: flex-end;
+  text-align: center;
+}
+
+.yellow {
+  font-family: "Bree Serif";
+  font-size: 10px;
+  background-color: #fbbf24;
+  color: #ffffff;
+  padding: 25px;
+}
+
+.blue {
+  font-family: "Bree Serif";
+  font-size: 10px;
+  background-color: #38bdf8;
+  color: #ffffff;
+  padding: 50px;
+}
+
+.pink {
+  font-family: "Bree Serif";
+  font-size: 10px;
+  background-color: #ec4899;
+  color: #ffffff;
+  padding: 100px;
+}
